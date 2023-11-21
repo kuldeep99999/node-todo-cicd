@@ -14,6 +14,6 @@ Run these commands:
 `node app.js`
 
 or Run by docker compose
-jj
-test 1
+
+test 1,2
 
